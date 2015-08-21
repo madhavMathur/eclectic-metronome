@@ -6,6 +6,9 @@
 
 ##### Set a tempo and a time signature, and you're reading to jam! 
 
+![alt tag](http://i.imgur.com/SpiHHXG.png?1 "")
+![alt tag](http://i.imgur.com/bhldv6n.png?1 "")
+
 It uses flashing bright colours after every crotchet note, so it can be used even if audio output is not available.
 
 
